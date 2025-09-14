@@ -1,3 +1,7 @@
+![Image of UI](screenshot.png)
+
+Read the **USEME.md** file for instructions on how to use the program. 
+
 ## Photo citations
 
 "Picture of my cat" my_cat.ppm, May 10, 2024.
