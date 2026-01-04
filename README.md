@@ -1,16 +1,13 @@
+# Image Editing Program
 ![Image of UI](screenshot.png)
 
-Read the **USEME.md** file for instructions on how to use the program. 
+>![NOTE]
+>Read the **USEME.md** file for instructions on how to use the program. 
 
 ## Photo citations
-
-"Picture of my cat" my_cat.ppm, May 10, 2024.
-
-- This is my own photo taken on May 10, 2024.
+`my_cat.ppm`: This is my own photo taken on May 10, 2024.
 
 ---
-
-# Image Editing Program
 
 ## Project Summary
 
@@ -103,9 +100,3 @@ The project follows **SOLID principles** and implements the **MVC (Model-View-Co
 - Image database with multiple image management
 - Comprehensive error handling and validation
 - JUnit4 test coverage
-
----
-
-## Design Principles
-
-This project demonstrates strong object-oriented design principles with extensibility, maintainability, and proper separation of concerns throughout the codebase.
