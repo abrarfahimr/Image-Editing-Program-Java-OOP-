@@ -1,7 +1,7 @@
 # Image Editing Program
 ![Image of UI](screenshot.png)
 
->![NOTE]
+![NOTE]
 >Read the **USEME.md** file for instructions on how to use the program. 
 
 ## Photo citations
