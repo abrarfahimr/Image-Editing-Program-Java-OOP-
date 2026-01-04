@@ -1,8 +1,7 @@
 # Image Editing Program
 ![Image of UI](screenshot.png)
 
->![NOTE]
-> Read the **USEME.md** file for instructions on how to use the program. 
+>Read the **USEME.md** file for instructions on how to use the program. 
 
 ## Photo citations
 `my_cat.ppm`: This is my own photo taken on May 10, 2024.
